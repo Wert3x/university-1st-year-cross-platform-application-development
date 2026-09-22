@@ -1,0 +1,1 @@
+public record OperationResult(boolean isSuccess, String message) { }
